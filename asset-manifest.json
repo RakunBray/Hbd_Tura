@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/static/css/main.fede8d72.css",
+    "main.js": "/static/js/main.68836407.js",
+    "static/media/HBD.mp3": "/static/media/HBD.bf9541ca72f05c5ad62c.mp3",
+    "static/media/Mastura.jpeg": "/static/media/Mastura.0acecac52c2f5781b3dd.jpeg",
+    "index.html": "/index.html",
+    "main.fede8d72.css.map": "/static/css/main.fede8d72.css.map",
+    "main.68836407.js.map": "/static/js/main.68836407.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fede8d72.css",
+    "static/js/main.68836407.js"
+  ]
+}
